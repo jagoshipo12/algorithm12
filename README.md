@@ -7,5 +7,5 @@
 
 ### Homework2 
 
-[SelectionSorting](./Homework/BubbleSorting.pde)
+[BubbleSorting](./Homework/BubbleSorting.pde)
 ![Alt homework11](./Homework/bubble_sort.png)
