@@ -4,3 +4,8 @@
 
 [SelectionSorting](./Homework/SelectionSorting.pde)
 ![Alt homework11](./Homework/selectiong_sort.png)
+
+### Homework2 
+
+[SelectionSorting](./Homework/BubbleSorting.pde)
+![Alt homework11](./Homework/bubble_sort.png)
