@@ -11,5 +11,5 @@
 ![Alt homework11](./Homework/bubble_sort.png)
 
 ### Homework3 
-[InsertSorting](./Homework/BubbleSorting.pde)
-![Alt homework11](./Homework/bubble_sort.png)
+[InsertSorting](./Homework/InsertionSorting.pde)
+![Alt homework11](./Homework/insertion_sort.png)
