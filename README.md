@@ -15,5 +15,5 @@
 ![Alt homework11](./Homework/insertion_sort.png)
 
 ### Homework4 
-[SelectionSorting](./Homework/SelectionSorting.pde)
-![Alt homework11](./Homework/selectiong_sort.png)
+[MergeSorting](./Homework/MergeSorting.pde)
+![Alt homework11](./Homework/merge_sort.png)
