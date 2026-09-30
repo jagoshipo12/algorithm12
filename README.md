@@ -17,3 +17,7 @@
 ### Homework4 
 [MergeSorting](./Homework/MergeSorting.pde)
 ![Alt homework11](./Homework/merge_sort.png)
+
+### Homework5 
+[QuickSorting](./Homework/QuickSorting.pde)
+![Alt homework11](./Homework/quick_sort.png)
