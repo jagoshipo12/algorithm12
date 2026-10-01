@@ -21,3 +21,7 @@
 ### Homework5 
 [QuickSorting](./Homework/QuickSorting.pde)
 ![Alt homework11](./Homework/quick_sort.png)
+
+### Homework6 
+[HeapSorting](./Homework/HeapSorting.pde)
+![Alt homework11](./Homework/heap_sort.png)
