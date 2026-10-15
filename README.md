@@ -25,3 +25,7 @@
 ### Homework6 
 [HeapSorting](./Homework/HeapSorting.pde)
 ![Alt homework11](./Homework/heap_sort.png)
+
+### Homework7 
+[SortingAnimation](./Homework/SortingAnimation.pde)
+![Alt homework11](./Homework/sort_animation.gif)
