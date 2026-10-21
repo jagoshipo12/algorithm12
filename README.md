@@ -40,4 +40,4 @@
 
 ### Homework10
 [Traversal, Search](./Homework/Traversal_Search.pde)
-![Alt homework11](./Homework/traversal,search.gif)
+![Alt homework11](./Homework/traversal_search.gif)
