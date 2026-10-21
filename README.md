@@ -37,3 +37,7 @@
 ### Homework9
 [DeleteTree](./Homework/DeleteTree.pde)
 ![Alt homework11](./Homework/deleteTree.gif)
+
+### Homework10
+[Traversal, Search](./Homework/Traversal_Search.pde)
+![Alt homework11](./Homework/traversal,search.gif)
