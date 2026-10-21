@@ -30,6 +30,10 @@
 [SortingAnimation](./Homework/SortingAnimation.pde)
 ![Alt homework11](./Homework/sort_animation.gif)
 
-### Homework7 
+### Homework8 
 [InsertTree](./Homework/Insert.pde)
 ![Alt homework11](./Homework/BinarySearchTree_insert.gif)
+
+### Homework9
+[DeleteTree](./Homework/DeleteTree.pde)
+![Alt homework11](./Homework/deleteTree.gif)
