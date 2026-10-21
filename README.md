@@ -29,3 +29,7 @@
 ### Homework7 
 [SortingAnimation](./Homework/SortingAnimation.pde)
 ![Alt homework11](./Homework/sort_animation.gif)
+
+### Homework7 
+[InsertTree](./Homework/Insert.pde)
+![Alt homework11](./Homework/BinarySearchTree_insert.gif)
