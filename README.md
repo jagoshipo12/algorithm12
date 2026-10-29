@@ -43,5 +43,5 @@
 ![Alt homework11](./Homework/traversal_search.gif)
 
 ### Homework10
-[HeapSorting](./Homework/Postfix.pde)
-![Alt homework11](./Homework/postfix+calculator.png)
+[Postfix](./Homework/Postfix.pde)
+![Alt homework11](./Homework/postfix_calculator.png)
