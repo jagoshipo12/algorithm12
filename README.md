@@ -42,10 +42,10 @@
 [Traversal, Search](./Homework/Traversal_Search.pde)
 ![Alt homework11](./Homework/traversal_search.gif)
 
-### Homework10
+### Homework11
 [Postfix](./Homework/Postfix.pde)
 ![Alt homework11](./Homework/postfix_calculator.png)
 
-### Homework11
+### Homework12
 [PebblePlacement](./Homework/PebblePlacement.pde)
 ![Alt homework11](./Homework/pebble_placement.png)
